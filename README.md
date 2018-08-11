@@ -7,7 +7,7 @@ For my MS thesis I had some cases where I was creating figures by combining sepa
 * Working LaTeX installation with the geometry and pdfpages packages
 
 ## Installation
-For example, download or `git clone` this repo somewhere and add the tool `pdf.sbs` to your path. 
+For example, download or `git clone` this repo somewhere and add the tool `pdfsbs.sh` to your path. 
 
 ## Usage
 
